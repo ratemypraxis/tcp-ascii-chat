@@ -1,7 +1,5 @@
 {
   "dependencies": {
-    "ascii-art-image": "^1.4.0",
     "figlet": "^1.6.0",
-    "tone": "^14.7.77"
   }
 }
